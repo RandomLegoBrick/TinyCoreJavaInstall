@@ -20,7 +20,7 @@ The java binaries are now installed to `/usr/local/openjdk*/jre/bin` (this might
 ## Step 3: Add the java binaries to path.
 
 First we need a text editor, use the instructions from step 2 to install nano or vim or emacs or whatever  
-Edit the .ashrc file in you're home directory and add `export PATH="/usr/local/openjdk-8/jre/bin:$PATH"` you may have to modify the bin directory for java slightly depending on you're install. Save and exit.
+Edit the .ashrc file in you're home directory and add `export PATH="/usr/local/openjdk-8/jre/bin:$PATH"` you may have to modify the bin directory for java slightly depending on you're install. Save and exit.  
 Type `exit` to logout, and then relogin (username is `tc` by default)  
 Type `java`, you should get the help info.  
 
