@@ -7,7 +7,7 @@ After you have finished the installation, shut down, remove the install media, a
 
 ## Step 2: Install Java
 core comes with a primative package installer called appbrowser. In tiny core packages are called extensions, it can be a bit confusing.  
-To install java type: `tce-ab`  
+To open the extension installer: `tce-ab`  
 You will be greeted with some options, press `s` to search for a extension  
 Search for java by typing "openjdk"  
 You will be given a list of extensions, select the number corrosponding to the extension you want to install. In my case I chose 7 which corrosponded to `openjdk-8-jre.tcz`. (if there is only one package this stage is ignored)  
