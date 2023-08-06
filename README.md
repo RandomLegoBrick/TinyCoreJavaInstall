@@ -24,4 +24,7 @@ Edit the .ashrc file in you're home directory and add `export PATH="/usr/local/o
 Type `exit`, and then relogin (username is `tc` by default)  
 Type `java`, you should get the help info.  
 
-Hopefully this helps!
+Hopefully this helps!  
+
+
+Refrence: https://wiki.tinycorelinux.net/
